@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='DP'/>
+        <page name='70. Climbing Stars'/>
+        <page name='303.RangeSum'/>
+        <page name='53.ContiguousMax'/>
+        <page name='198.House Robber'/>
+        <page name='139.Word Break'/>
+        <page name='300. Longest Increasing Subsequence'/>
+    </pages>
+</playground>
